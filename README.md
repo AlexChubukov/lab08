@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/AlexDeveloper24/lab05.svg?branch=master)](https://travis-ci.org/AlexDeveloper24/lab05)
+[![Build Status](https://travis-ci.org/AlexDeveloper24/lab06.svg?branch=master)](https://travis-ci.org/AlexDeveloper24/lab06)
 ## Laboratory work III
 
 Данная лабораторная работа посвещена изучению систем контроля версий на примере **Git**.
